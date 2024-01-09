@@ -8,7 +8,7 @@
 
 /* container */
 .columns-3 {
-    padding: 50px;
+    padding: 100px;
     width: 90%;
     display:flex;
 }
@@ -30,6 +30,31 @@
 
 /* Fifth Part Styling"
 
+
+
+
+/* Sixth Section Styling*/
+.six{
+    padding: 100px;
+}
+
+
+
+
+/*Seventh Section styling*/
+.seven{
+    background:rgba(255, 0, 0, 0.05);
+    text-align: center;
+    padding: 50px;
+}
+
+input [type="email"]{
+    padding: 0 25px;
+    border-radius: 25px 0 0 25px;
+}
+
+
+
 /* Footer Styling*/
 .footer{
     background: #070211;
@@ -44,3 +69,9 @@
     padding: 200px 0px;
     margin-top: 100px;
 }
+.footer1, .footer3{
+    color: white;
+    padding: 50px;
+}
+
+/* background: rgba(255, 0, 0, 0.05);*/
