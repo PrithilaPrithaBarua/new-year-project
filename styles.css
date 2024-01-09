@@ -1,15 +1,45 @@
 
+/*First Section styling*/
+.first{
+    padding: 70px;
+    position: relative;
+    text-align: center;
+    color: white;
+}
 
+.banner{
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0) 100%);
+    border-radius: 16px;
+}
 
+.center, .center1{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 
+    font-size: 40px;
+    word-wrap:break-word;
+}
 
+/*Second section styling*/
+
+.two{
+    padding: 70px;
+    text-align: center;
+}
+
+/*Third section styling*/
+.three{
+    padding: 70px;
+}
 
 /* Fourth Part styling*/
 
 /* container */
 .columns-3 {
-    padding: 100px;
-    width: 90%;
+    padding: 70px;
+    width: 80%;
     display:flex;
 }
 /* columns */
@@ -35,7 +65,7 @@
 
 /* Sixth Section Styling*/
 .six{
-    padding: 100px;
+    padding: 70px;
 }
 
 
