@@ -82,13 +82,13 @@ right:200px;
 
 
 
-/* container */
+
 .columns-3 {
     padding: 80px;
     width: 80%;
     display:flex;
 }
-/* columns */
+
 .columns-3 > * {
     width: calc(100% / 3);
 }
@@ -131,6 +131,25 @@ right:200px;
     color: gray;
 }
 
+.six1 img{
+    opacity:0.5;
+    transition: 1s ease;
+    }
+
+.six1 img:hover{
+        opacity:1;
+        transition: 1s ease;
+        }
+.six2 img{
+    opacity:0.5;
+    transition: 1s ease;
+    }
+
+.six2 img:hover{
+        opacity:1;
+        transition: 1s ease;
+        }
+    
 
 
 
@@ -230,9 +249,14 @@ position2{
 /* background: rgba(255, 0, 0, 0.05);*/
 
 /* Special Section Styling*/
+.special-text{
+    font-size: 45px;
+    text-align: center;
+}
 .special{
     padding: 70px;
     position: relative;
+   
     
 
 }
