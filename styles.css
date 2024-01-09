@@ -228,3 +228,45 @@ position2{
 
 
 /* background: rgba(255, 0, 0, 0.05);*/
+
+/* Special Section Styling*/
+.special{
+    padding: 70px;
+    position: relative;
+    
+
+}
+
+.Rectangle2{
+    position:relative;
+    z-index: 1;
+    height: 100%;
+    width: 100%;
+    top:50px;
+
+}
+
+.group75{
+    position: relative;
+    z-index: 2;
+    height: 500px;
+    left:80px;
+    top: 570px;
+}
+
+.Rectangle{
+    position: relative;
+    z-index: 3;
+    height: 500px;
+    left: 255px;
+    top: 408px;
+}
+
+.group44{
+    position: relative;
+    z-index: 4;
+    height: 350px;
+    left: 650px;
+    top: 0px;
+}
+
